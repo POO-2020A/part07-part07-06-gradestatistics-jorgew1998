@@ -97,7 +97,5 @@ public class Main {
          for(int i = 1; i <= contForOne; i++) {
            System.out.print("*");
          }
-
-         System.out.println();
        }
    }
