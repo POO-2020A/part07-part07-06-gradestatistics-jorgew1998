@@ -60,7 +60,7 @@ public class Main {
          }
     
          double passPorcentaje = 100 * contOfAprobed / contOfTotal;
-         System.out.println("Pass porcentage: " + passPorcentaje);
+         System.out.println("Pass percentage: " + passPorcentaje);
 
          System.out.println("Grade distribution: ");
          System.out.print("5:");
